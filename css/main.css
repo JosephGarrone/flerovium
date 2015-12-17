@@ -1,0 +1,16 @@
+.md-toolbar-tools h1 {
+     font-size: inherit;
+     font-weight: inherit;
+     margin: inherit;
+ }
+
+html, body, #map-canvas {
+    height: 100%;
+    margin: 0px;
+    padding: 0px
+}
+
+.mail-to {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.54);
+}
